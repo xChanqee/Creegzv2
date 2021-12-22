@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x44926695fAe673E289e0152B254dbAa31F2691c6",
+  "SCAN_LINK": "https://https://mumbai.polygonscan.com/address/0x44926695fae673e289e0152b254dbaa31f2691c6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Official Creegz",
+  "SYMBOL": "OCZNFT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/official-creegz-pajv6kuqey",
+  "SHOW_BACKGROUND": true
+}
